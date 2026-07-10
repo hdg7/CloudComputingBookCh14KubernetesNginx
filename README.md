@@ -1,3 +1,9 @@
+# Chapter 14 Nginx on Kubernetes
+
+This repository contains the Nginx on Kubernetes tutorial mentioned in **Chapter 14** of the book:
+
+[**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
+
 # Nginx on Kubernetes with Kind
 
 This guide explains how to deploy an **Nginx web server** on a Kubernetes cluster created with **Kind**.
